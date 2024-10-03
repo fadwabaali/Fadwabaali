@@ -1,3 +1,4 @@
+
 # Hey there, I’m Fadwa! 👋 
 
 I’m a **Full-Stack Developer** who started coding back in 2019, during a time when the world was locked down, but my curiosity was unlocked. 💻✨
@@ -28,3 +29,9 @@ And more… (always learning, always growing!)
 
 🌍 **Mission:**  
 To keep building, learning, and growing, one project at a time. My goal? To craft apps and websites that don't just **work** but make life simpler, more enjoyable, and definitely more beautiful.
+
+![Fadwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadwabaali&show_icons=true&theme=radical)
+
+### 🔨 Current Project
+Building a **Notes App** using the MERN stack! Check it out [here](https://github.com/yourrepo).
+
