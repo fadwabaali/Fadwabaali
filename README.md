@@ -33,5 +33,5 @@ To keep building, learning, and growing, one project at a time. My goal? To craf
 ![Fadwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadwabaali&show_icons=true&theme=radical)
 
 ### 🔨 Current Project
-Building a **Notes App** using the MERN stack! Check it out [here](https://github.com/yourrepo).
+Building a **Portfolio** using the MERN stack! Check it out [here](https://github.com/fadwabaali/Portfolio-site).
 
