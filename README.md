@@ -30,8 +30,6 @@ And more… (always learning, always growing!)
 🌍 **Mission:**  
 To keep building, learning, and growing, one project at a time. My goal? To craft apps and websites that don't just **work** but make life simpler, more enjoyable, and definitely more beautiful.
 
-![Fadwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadwabaali&show_icons=true&theme=radical)
-
 ### 🔨 Current Project
-Building a **Portfolio** using the MERN stack! Check it out [here](https://github.com/fadwabaali/Portfolio-site).
+Building a **orne - AI Fashion E-Commerce Platform** using the MERN stack! Check it out [here]([https://github.com/fadwabaali/next-eommerce-ai-agent]
 
